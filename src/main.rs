@@ -1,5 +1,4 @@
 #![allow(non_snake_case)]
-#![allow(deprecated)]
 
 use serde_json::json;
 use qrcode::QrCode;
